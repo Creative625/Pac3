@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/whitephennec/white_fox_d"
+	"$bumpmap" "models/whitephennec/white_fox_n"
+	"$phongexponenttexture" "models/whitephennec/white_fox_s"
+	
+	"$halflambert"		1
+
+	"$phong"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	60
+	"$phongboost" 		4
+    $phongfresnelranges               "[1.0 1.0 1.0]"
+	
+	"$rimlight"	1
+	"$rimlight_exp"		5
+	"$rimlight_boost"	 15
+	
+	"$sss_enable"		0
+	"$sss_color"		"[1 0 0 1]"
+	
+	"$surface" "metal"
+}

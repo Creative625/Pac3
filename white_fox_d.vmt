@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/whitephennec/white_fox_d"
+	"$bumpmap" "models/whitephennec/white_fox_n"
+	"$phongexponenttexture" "models/whitephennec/white_fox_s"
+}
