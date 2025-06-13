@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\halloweenpropstuff\candle"
+	"$bumpmap" "models\halloweenpropstuff\candle_bump"
+	"$surfaceprop" "Metal"
+	"$halflambert" "1"
+	"$ambientocclusion" "1"					
+
+	"$normalmapalphaenvmapmask" 1								
+	"$color2" "[0.8 0.8 0.8]"					
+
+	"$phong" "1"						
+	"$phongboost"	"1" 		
+	"$phongexponent" "64"	
+	"$phongfresnelranges"	"[0.3 1 4]" 
+      "$lightwarptexture" "models\halloweenpropstuff\lightwarp"
+}
